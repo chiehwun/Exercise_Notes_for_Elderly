@@ -36,7 +36,7 @@
 
 <br>
 <div align=center>
-<img src="https://github.com/chiehwun/Exercise_Notes_for_Elderly/blob/main/img/feature-1.png" width="1096" height="1047">
+<img src="https://github.com/chiehwun/Exercise_Notes_for_Elderly/blob/main/img/feature-1.png">
 </div>
 <br>
 
