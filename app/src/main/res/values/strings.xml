@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ExerciseNotes</string>
+    <string-array name="RecordDist">
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+        <item>50</item>
+    </string-array>
+    <string-array name="RecordTime">
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+        <item>50</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>

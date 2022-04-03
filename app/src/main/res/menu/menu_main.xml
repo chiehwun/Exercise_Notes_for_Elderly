@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/miSetup"
+        android:checkable="false"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:title="設定"
+        android:visible="true" />
+    <item
+        android:id="@+id/miSetGPS"
+        android:title="設定定位資訊" />
+    <item
+        android:id="@+id/miVersion"
+        android:title="版本資訊" />
+</menu>
