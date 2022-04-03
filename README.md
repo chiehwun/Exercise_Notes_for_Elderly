@@ -42,18 +42,18 @@
 
 <br>
 <div align=center>
-<img src="https://github.com/chiehwun/Exercise_Notes_for_Elderly/blob/main/img/feature-2.png" width="1097" height="1525">
+<img src="https://github.com/chiehwun/Exercise_Notes_for_Elderly/blob/main/img/feature-2.png">
 </div>
 <br>
 
 <br>
 <div align=center>
-<img src="https://github.com/chiehwun/Exercise_Notes_for_Elderly/blob/main/img/feature-3.png" width="1098" height="1041">
+<img src="https://github.com/chiehwun/Exercise_Notes_for_Elderly/blob/main/img/feature-3.png">
 </div>
 <br>
 
 <br>
 <div align=center>
-<img src="https://github.com/chiehwun/Exercise_Notes_for_Elderly/blob/main/img/feature-4.png" width="1097" height="862">
+<img src="https://github.com/chiehwun/Exercise_Notes_for_Elderly/blob/main/img/feature-4.png">
 </div>
 <br>
